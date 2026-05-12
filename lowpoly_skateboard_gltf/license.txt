@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly SkateBoard gltf
+* source:	https://sketchfab.com/3d-models/lowpoly-skateboard-gltf-dc18fbedd63c458b9b31878d7909f9fd
+* author:	efsun4 (https://sketchfab.com/efsun4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly SkateBoard gltf" (https://sketchfab.com/3d-models/lowpoly-skateboard-gltf-dc18fbedd63c458b9b31878d7909f9fd) by efsun4 (https://sketchfab.com/efsun4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
